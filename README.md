@@ -35,5 +35,5 @@ This a website that has information about me, how to contact me and projects I'v
 
 
 ## Author Links
-[LinkedIn](https://www.linkedin.com/feed/)
+[LinkedIn](linkedin.com/in/andres-felipe-jimenez-ferreira-b67a35192)
 [GitHub](https://github.com/AndresF97)
