@@ -52,7 +52,7 @@ h4{
 }
 .box1{
     width:115%;
-    background-color:#ddddd5;
+    background-color:#dddddd;
     padding:40px 100px 100px 100px;
     margin-bottom:20px;   
 
@@ -89,14 +89,64 @@ h4{
     
 
 }
-#PT_box{
-    width:25px;
-    height:25px;
-    margin:25px;
-    padding:25px;
+#PT_box_1{
+    width:150px;
+    height:30px;
+    margin:25px 25px 25px 25px;
+    padding:10px 10px 10px 10px;
     font-weight:bold;
     background-color: #4aaaa5;
     color: white;
+    text-align:center;
+    position: absolute;
+    right:700px;
+    top:210px;
+
+    
+
+
+}
+#PT_box_2{
+    width:150px;
+    height:30px;
+    margin:25px 25px 25px 25px;
+    padding:10px 10px 10px 10px;
+    font-weight:bold;
+    background-color: #4aaaa5;
+    color: white;
+    text-align:center;
+
+
+    
+
+}
+#PT_box_3{
+    width:150px;
+    height:30px;
+    margin:25px 25px 25px 25px;
+    padding:10px 10px 10px 10px;
+    font-weight:bold;
+    background-color: #4aaaa5;
+    color: white;
+    text-align:center;
+    
+
+}
+#PT_box_4{
+    width:150px;
+    height:30px;
+    margin:25px 25px 25px 25px;
+    padding:10px 10px 10px 10px;
+    font-weight:bold;
+    background-color: #4aaaa5;
+    color: white;
+    text-align:center;
+    position: absolute;
+    right:700px;
+    top:285px;
+
+    
+
 }
 ooter{
     border-top: 8px solid #4aaaa5;
