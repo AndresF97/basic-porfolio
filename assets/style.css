@@ -34,7 +34,7 @@ h4{
     float:right;
     padding: 12px 16px 0px 0px;
     position: absolute;
-    right:90px;
+    right:85px;
 
 
 }
@@ -42,21 +42,21 @@ h4{
     float: right;
     padding: 12px 16px;
     position: absolute;
-    right:150px;
+    right:144px;
 
 }
 .contact{
     float: right;
     padding: 12px 16px;
     position: absolute;
-    right: 228px;
+    right: 220px;
 
 }
 .box1{
-    width:115%;
+    width:110.8%;
     background-color:#dddddd;
     padding:40px 100px 100px 100px;
-    margin-bottom:0px;   
+    margin-bottom:auto;
 
 
 
@@ -66,9 +66,17 @@ h4{
     background-color:white;
     width:960px;
     padding:50px;
-    margin-bottom:0 auto;
     height:400px;
-    
+    margin-bottom:auto;
+    border:auto;
+
+}
+.boxp{
+    background-color:white;
+    width:960px;
+    padding:50px;
+    height:800px;
+    margin-bottom:auto;
 
 }
 .AT{
@@ -100,83 +108,158 @@ button{
     width:100px; 
     height:40px;
     padding: 5px;
-    margin-top:5px;s
+    margin-top:5px;
 
 }
 
 
 .PT{
-    color: #4aaaa5;
+    color:#4aaaa5;
     font-size:30px;
     font-weight: bold;
     
 
 }
 #PT_box_1{
-    width:150px;
-    height:30px;
-    margin:25px 25px 25px;
+    width:200px;
+    height:200px;
+    margin:25px 25px 25px 25px;
+    position: absolute;
+    right:844px;
+    bottom:-50px;
+    background-image:url(../assets/Image/RPG.jpg)
+}
+.rpg{
+    margin:10px 10px 10px 10px;
     margin-bottom: 0 auto;
-    padding:10px 10px 10px 10px;
-    font-weight:bold;
+    width:170px;
+    height:30px;
+    padding:20px 20px 10px 10px;
     background-color: #4aaaa5;
-    color: white;
-    text-align:center;
+    color:white;
+    text-align: center;
     position: absolute;
-    right:700px;
-    top:210px;
-
-    
-
+    bottom:10px;
+    right:-10px;
 
 }
+    
+
 #PT_box_2{
-    width:150px;
-    height:30px;
+    width:200px;
+    height:200px;
     margin:25px 25px 25px 25px;
-    padding:10px 10px 10px 10px;
-    font-weight:bold;
-    background-color: #4aaaa5;
-    color: white;
-    text-align:center;
-
-
+    position: absolute;
+    left:395px;
+    bottom:-50px;
+    background-image:url(../assets/Image/Rock.jpg)
     
 
 }
-#PT_box_3{
-    width:150px;
+.scissors{
+    width:170px;
     height:30px;
-    margin:25px 25px 25px 25px;
-    padding:10px 10px 10px 10px;
-    font-weight:bold;
-    background-color: #4aaaa5;
-    color: white;
-    text-align:center;
-    
-
-}
-#PT_box_4{
-    width:150px;
-    height:30px;
-    margin:25px 25px 25px 25px;
-    padding:10px 10px 10px 10px;
+    margin:10px;
+    padding:20px 20px 10px 10px;
     font-weight:bold;
     background-color: #4aaaa5;
     color: white;
     text-align:center;
     position: absolute;
-    right:700px;
-    top:285px;
+    bottom:10px;
+    right:-10px;
 
+
+}
+
+#PT_box_3{
+    width:200px;
+    height:200px;
+    margin:25px 25px 25px 25px;
+    position: absolute;
+    right:620px;
+    top:210px;
+    background-image:url(../assets/Image/Website.jpg)
+    
     
 
 }
+
+.website{
+    width:170px;
+    height:30px;
+    margin:10px;
+    padding:20px 20px 10px 10px;
+    font-weight:bold;
+    background-color: #4aaaa5;
+    color: white;
+    text-align:center;
+    position: absolute;
+    bottom:10px;
+    right:-10px;
+
+
+}
+
+
+#PT_box_4{
+    width:200px;
+    height:200px;
+    margin:25px 25px 25px 25px;
+    position: absolute;
+    left:170px;
+    top:210px;
+    background-image:url(../assets/Image/Pixel.jpg)
+    
+}
+
+.pixel{
+    width:170px;
+    height:30px;
+    margin:10px;
+    padding:20px 20px 10px 10px;
+    font-weight:bold;
+    background-color: #4aaaa5;
+    color: white;
+    text-align:center;
+    position: absolute;
+    bottom:10px;
+    right:-10px;
+
+}
+
+
+
+#PT_box_5{
+    width:200px;
+    height:200px;
+    margin:25px 25px 25px 25px;
+    position: absolute;
+    left:171px;
+    bottom:-270px;
+    background-image:url(../assets/Image/games.jpg)
+    
+}
+
+.games{
+    width:170px;
+    height:30px;
+    margin:10px;
+    padding:20px 20px 10px 10px;
+    font-weight:bold;
+    background-color: #4aaaa5;
+    color: white;
+    text-align:center;
+    position: absolute;
+    bottom:-0px;
+    right:-10px;
+}
+
 .footer{
     border-top: 8px solid #4aaaa5;
     border-bottom: #666666;
     padding:20px;
-    width: 130%;
+    width: 127.4%;
     background-color: #666666;
     text-align: center;
     color:#ffffff;
